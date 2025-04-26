@@ -15,8 +15,15 @@
 class Solution(object):
 
 ```
+## Time Complexity & Space complexity:
+- Time Complexity   :   Big-O(**)
+- Space Complexity   :  Big-O(**)
 
 ## 補充：
+- 
+### Time Complexity :
+- 
+### Space complexity　:
 - 
 
 ## Link@
