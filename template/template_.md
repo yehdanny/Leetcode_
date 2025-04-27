@@ -2,6 +2,8 @@
 
 ## 分類 : 
 
+## 題目：
+
 ## 演算法：
 - 
   - 
@@ -16,8 +18,8 @@ class Solution(object):
 
 ```
 ## Time Complexity & Space complexity:
-- Time Complexity   :   Big-O(**)
-- Space Complexity   :  Big-O(**)
+- Time Complexity   :   Big-O(____)
+- Space Complexity   :  Big-O(____)
 
 ## 補充：
 - 
