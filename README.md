@@ -9,10 +9,10 @@ My current interests, and bucketlist topics to study, include:
 Feel Free to use my [template](./template/template_.md)!
 
 ## My Current Category :
-###Level
+### Level
 - [Easy](./Category//By%20difficulty/Easy/)
 - [Medium](./Category//By%20difficulty/Medium/)
-###Topic
+### Topic
 - [Arrary](./Category/By%20Type/Arrary/)
 - [String](./Category/By%20Type/String/)
 - [Two-pointers](./Category/By%20Type/Two-pointers/)
