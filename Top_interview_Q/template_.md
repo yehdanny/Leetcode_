@@ -14,7 +14,6 @@
 
 ## 程式碼：
 ```python
-class Solution(object):
 
 ```
 ## Time Complexity & Space complexity:
